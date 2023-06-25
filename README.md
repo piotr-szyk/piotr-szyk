@@ -8,13 +8,19 @@ class WhoAmI:
         self.languages_spoken = languages_spoken
 
     def introduce(self):
-        return f"Hi, my name is {self.name}. I live in {self.location} and my role is {self.role}. I speak {', '.join(self.languages_spoken)}."
+        languages = ", ".join(self.languages_spoken)
+        return (
+            f"Hi, my name is {self.name}. I live in {self.location} "
+            f"and my role is {self.role}. I speak {languages}."
+        )
 
 
 if __name__ == "__main__":
-    person = WhoAmI("Piotr Szyk", "London", "Software Engineer", ["English", "Polish"])
+    person = WhoAmI("Piotr Szyk", "London", "Software Engineer",
+                    ["English", "Polish"])
     print(person.introduce())
 ```
+
 
 ### What am I currently learning
 I am learning Data Science and Machine Learning at HyperionDev Bootcamp.
