@@ -29,7 +29,9 @@ Please see my profile at: https://www.hyperiondev.com/portfolio/132088/
 
 https://github.com/piotr-szyk/100-Days-of-Code-The-Complete-Python-Pro-Bootcamp-for-2023
 
-![logo-udemy](https://github.com/piotr-szyk/piotr-szyk/assets/74630591/7af82be8-7667-4c86-917f-9ea970ec1b11)
+<img src="https://github.com/piotr-szyk/piotr-szyk/assets/74630591/7af82be8-7667-4c86-917f-9ea970ec1b11)" width="100" height="100">
+
+
 
 <!--
 **piotr-szyk/piotr-szyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
