@@ -27,7 +27,7 @@ I am a developer focused on building clean, efficient, and data-driven web appli
 ---
 
 ### 📬 Connect with me
-[LinkedIn](https://github.com/piotr-szyk) | [Email](mailto:piotr.szyk@gmail.com)
+[Email](mailto:piotr.szyk@gmail.com)
 
 *"Solving problems through clean code and thoughtful design."*
 
